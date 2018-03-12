@@ -10,8 +10,8 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 18px;
   line-height: 34px;
-  color: #777;
-  background: url("../images/concrete_seamless.png");
+  color: rgb(62, 20, 177);
+  background: url("../images/techImage.jpeg");
 }
 
 * {
@@ -25,6 +25,12 @@ body {
   max-width: 960px;
   margin: 0 auto;
   clear: both;
+}
+
+.abc{
+
+color:#071088;
+
 }
 
 
@@ -45,7 +51,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: #071088;
 }
 
 h1 {
@@ -68,7 +74,7 @@ h3 {
   width: 100%;
   margin: 0 0 30px;
   overflow: auto;
-  color: #fff;
+  color: #071088;
   background: #fff;
   border-bottom: 2px solid #ccc;
 }
@@ -84,7 +90,7 @@ h3 {
   color: #fff;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: #071088;
 }
 
 nav {
